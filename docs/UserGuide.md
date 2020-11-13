@@ -10,7 +10,8 @@
 <img src = "images/quickstart.PNG" width = "600">
 
 #### **WatchNext** is a show tracker made for teenagers and young adults.
-<br><br> 
+<br>
+
 ### 1.a. What is **WatchNext**? [Jazhten]
 
 **WatchNext** is a show tracker designed for users who watch their favourite shows on multiple free streaming platforms and other open source streaming websites.
@@ -82,7 +83,7 @@ If you are unfamiliar with the CLI (Command Line Interface), do give this helpfu
 
 ## 4. Features <br>
 
-#### 4.a. `help` and `example` - Provides a condensed help list (Benardo Tang)
+#### 4.a. `help` and `example` - Provides a condensed help list [Benardo Tang]
 
  The `help` command provides a list which contains information about all the possible accepted commands.
  
@@ -492,7 +493,7 @@ The `episode` command updates the current episode of an existing show in your wa
 
  **WatchNext** allows you to set and track your daily watch time with its two commands , `watch` and `updatetimelimit`. 
  
-### 4.m.a. `watch` - Watch a show in your list  (Benardo Tang)
+### 4.m.a. `watch` - Watch a show in your list  [Benardo Tang]
 
 The `watch` command updates the watching progress for your show, and automatically updates your watch time limit.
 
@@ -530,7 +531,7 @@ The `watch` command updates the watching progress for your show, and automatical
  
 
  
-### 4.m.b. `updatetimelimit` - update your watch time limit (Benardo Tang)
+### 4.m.b. `updatetimelimit` - update your watch time limit [Benardo Tang]
 
 The `updatetimelimit` command updates your daily watch time limit.
 
@@ -601,6 +602,8 @@ The `search` command helps you search for a specific show in the watchlist and p
  
  &nbsp;
   
+ <br>  <br> 
+
 ### 4.o. `bye` - Exits the program
 
 The `bye` command exits the program.
